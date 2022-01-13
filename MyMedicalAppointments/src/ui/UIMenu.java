@@ -15,7 +15,7 @@ public class UIMenu {
             System.out.println("1. model.Doctor");
             System.out.println("2. model.Patient");
             System.out.println("0. Salir");
-
+  
             Scanner sc = new Scanner(System.in);
             response = Integer.valueOf(sc.nextLine());
 
